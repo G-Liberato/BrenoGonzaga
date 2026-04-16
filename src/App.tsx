@@ -222,14 +222,14 @@ export default function App() {
 
       {/* 3. BLOCO – Resultados Reais */}
       <Section>
-        <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
-          <div className="max-w-xl text-left">
+        <div className="flex flex-col md:flex-row justify-between items-center md:items-end mb-16 gap-8">
+          <div className="max-w-xl text-center md:text-left">
             <span className="text-luxury-gold text-[10px] font-bold uppercase tracking-[0.4em] mb-4 block">Prova Visual</span>
             <h2 className="text-4xl md:text-5xl font-serif text-luxury-ink font-light">
               Resultados Reais
             </h2>
           </div>
-          <p className="text-luxury-muted text-xs font-medium uppercase tracking-widest mb-1">
+          <p className="text-luxury-muted text-xs font-medium uppercase tracking-widest mb-1 text-center md:text-right">
             *Resultados variam por paciente.
           </p>
         </div>
