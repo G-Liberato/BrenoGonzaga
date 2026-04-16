@@ -378,10 +378,10 @@ export default function App() {
               <div className="relative w-full aspect-square border border-luxury-gold/20 flex flex-col items-center justify-center p-12 text-center group">
                  <div className="absolute top-0 left-0 w-8 h-8 border-t border-l border-luxury-gold/40" />
                  <div className="absolute bottom-0 right-0 w-8 h-8 border-b border-r border-luxury-gold/40" />
-                 <span className="text-luxury-gold text-[10px] font-bold uppercase tracking-[0.3em] mb-4">First Appointment</span>
-                 <p className="text-3xl font-serif italic mb-2 tracking-wide font-light">Free of Charge</p>
+                 <span className="text-luxury-gold text-[10px] font-bold uppercase tracking-[0.3em] mb-4">Primeira Consulta</span>
+                 <p className="text-3xl font-serif italic mb-2 tracking-wide font-light">Totalmente Gratuita</p>
                  <div className="w-12 h-px bg-luxury-gold/30 my-6" />
-                 <p className="text-xs text-luxury-muted uppercase tracking-[0.2em] font-medium transition-colors group-hover:text-emerald-500">Available This Week</p>
+                 <p className="text-xs text-luxury-muted uppercase tracking-[0.2em] font-medium transition-colors group-hover:text-emerald-500">Disponível Esta Semana</p>
               </div>
             </div>
           </div>
